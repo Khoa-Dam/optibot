@@ -74,6 +74,6 @@ grep -R "^# " data/markdown | head
 cat logs/last-run.json
 ```
 
-Daily job logs: Railway cron snapshot in `logs/railway-last-run.txt`.
+Daily job logs: Railway cron screenshot `screenshots/railway-daily-job-logs.png`; text snapshot `logs/railway-last-run.txt`.
 
 Screenshot: `screenshots/assistant-youtube-answer.png`
