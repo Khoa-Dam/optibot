@@ -20,9 +20,11 @@ from .gemini_uploader import (
     create_client,
     get_or_create_file_search_store,
     load_gemini_state,
+    GeminiUploadError,
     query_file_search_store,
     save_gemini_state,
     select_files_for_upload,
+    to_json_safe,
     upload_markdown_files_to_store,
 )
 from .html_to_markdown import clean_html, html_to_markdown
@@ -113,15 +115,38 @@ def upload_changed_files(
         config.gemini_file_search_store_display_name,
         state,
     )
+    state.update({
+        "file_search_store_name": store.name,
+        "file_search_store_display_name": getattr(store, "display_name", None)
+        or config.gemini_file_search_store_display_name,
+        "model": config.gemini_model,
+        "updated_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
+    })
+    save_gemini_state(config.gemini_state_path, state)
+
     files_to_upload = select_files_for_upload(
         changed_files,
         manifest,
         state,
         config.output_dir,
         config.force_upload_all,
+        config.gemini_reupload_existing,
     )
-    upload_result = upload_markdown_files_to_store(client, store.name, files_to_upload, manifest)
-    query_result = query_file_search_store(client, config.gemini_model, store.name, YOUTUBE_TEST_QUERY)
+    if config.gemini_upload_limit > 0:
+        files_to_upload = files_to_upload[: config.gemini_upload_limit]
+
+    upload_result = upload_markdown_files_to_store(
+        client,
+        store.name,
+        files_to_upload,
+        manifest,
+        config.gemini_operation_timeout_seconds,
+    )
+    query_result = (
+        {"skipped": True, "message": "Gemini query skipped by SKIP_GEMINI_QUERY=true"}
+        if config.skip_gemini_query
+        else query_file_search_store(client, config.gemini_model, store.name, YOUTUBE_TEST_QUERY)
+    )
 
     existing_uploads = {
         item.get("source_filename"): item
@@ -149,7 +174,12 @@ def upload_changed_files(
 
 def write_run_log(run_log: dict[str, Any]) -> Path:
     path = config.log_dir / "last-run.json"
-    path.write_text(json.dumps(run_log, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    tmp_path = path.with_suffix(path.suffix + ".tmp")
+    tmp_path.write_text(
+        json.dumps(to_json_safe(run_log), indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+    tmp_path.replace(path)
     return path
 
 
@@ -194,17 +224,20 @@ def main() -> int:
         failure_result = {
             "provider": "gemini",
             "status": "failed",
-            "files_uploaded": 0,
+            "files_uploaded": getattr(exc, "files_uploaded", 0),
             "uploaded_files": [],
             "error": str(exc),
+            "file_search_store_name": getattr(exc, "file_search_store_name", None),
+            "current_filename": getattr(exc, "current_filename", None),
+            "operation_name": getattr(exc, "operation_name", None),
         }
         write_run_log({
             "run_at": run_at,
             "fetched": len(articles),
             **counts,
             "failed": failed,
-            "uploaded_files": 0,
-            "gemini_file_search_store_name": None,
+            "uploaded_files": failure_result["files_uploaded"],
+            "gemini_file_search_store_name": failure_result["file_search_store_name"],
             "gemini_file_search_store_display_name": None,
             "upload": failure_result,
             "articles": article_logs,

@@ -1,1 +1,376 @@
-{}
+{
+  "file_search_store_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+  "file_search_store_display_name": "optibot-kb-harvester",
+  "model": "gemini-3.1-flash-lite",
+  "uploaded_files": [
+    {
+      "source_filename": "data/markdown/ai-camera-app-quick-start.md",
+      "source_hash": "4778055800b0d3b3bf945a31231533d53d6bdd1b08b6db5660f415bf757e5b54",
+      "article_id": "27690296225555",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/aicameraappquickstartmd-ovx7gobulidu",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/aicameraappquickstartmd-ovx7gobulidu"
+      },
+      "uploaded_at": "2026-07-04T05:42:01.721627Z"
+    },
+    {
+      "source_filename": "data/markdown/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
+      "source_hash": "6da2825ac418c0a401d515a06a0270f5109b95202fc9c8324161b657ee24a631",
+      "article_id": "51343184586643",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/connectciscowebexroomstoopt-rsaisnt1fbku",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/connectciscowebexroomstoopt-rsaisnt1fbku"
+      },
+      "uploaded_at": "2026-07-04T05:46:46.340654Z"
+    },
+    {
+      "source_filename": "data/markdown/connect-google-meet-hardware-to-optisigns-digital-signage.md",
+      "source_hash": "9750145c07338abecdeb1cc9aae97cb5b0f2d9d3e8b3ef9f4b57b122d300476e",
+      "article_id": "52412502456083",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/connectgooglemeethardwareto-t4hgw03c7bv4",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/connectgooglemeethardwareto-t4hgw03c7bv4"
+      },
+      "uploaded_at": "2026-07-04T07:46:57.060717Z"
+    },
+    {
+      "source_filename": "data/markdown/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
+      "source_hash": "104c96ce94e813bcdd17369b08d4b23195d265b74cefd679143908f1b496dd85",
+      "article_id": "52350277262483",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/connectmicrosoftteamsroomst-pvc7rd0sonjz",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/connectmicrosoftteamsroomst-pvc7rd0sonjz"
+      },
+      "uploaded_at": "2026-07-04T08:01:57.501572Z"
+    },
+    {
+      "source_filename": "data/markdown/connect-zoom-rooms-to-optisigns-digital-signage.md",
+      "source_hash": "6dcaa6a4153414991741bd72480eec4f93a3e9c5132f689a52d6e95fbc1252e6",
+      "article_id": "52069065128723",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/connectzoomroomstooptisigns-my51qgtdkg79",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/connectzoomroomstooptisigns-my51qgtdkg79"
+      },
+      "uploaded_at": "2026-07-04T08:02:08.891695Z"
+    },
+    {
+      "source_filename": "data/markdown/does-optisigns-offer-non-profit-education-discount.md",
+      "source_hash": "b65a4c943b4dd18375c891e520d19f31683236d0384cf32e61173918d62a21e9",
+      "article_id": "360016252654",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/doesoptisignsoffernonprofit-cviuye4zmz36",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/doesoptisignsoffernonprofit-cviuye4zmz36"
+      },
+      "uploaded_at": "2026-07-04T08:02:20.108353Z"
+    },
+    {
+      "source_filename": "data/markdown/engage-plan-faqs.md",
+      "source_hash": "71496d0f476ba114221c6ba5bc8e590a4ae5add46c00cc45a05881da30c66137",
+      "article_id": "23565267463315",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/engageplanfaqsmd-m5yk5o5msmia",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/engageplanfaqsmd-m5yk5o5msmia"
+      },
+      "uploaded_at": "2026-07-04T08:02:30.858896Z"
+    },
+    {
+      "source_filename": "data/markdown/how-can-i-remove-delete-uploaded-files-or-assets.md",
+      "source_hash": "4f50437a2ee0e4d5864fc3959f109630bc3970cc0aae0c4f42ce70998642eadf",
+      "article_id": "360025661053",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howcaniremovedeleteuploaded-zi2eqwtqz2ny",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howcaniremovedeleteuploaded-zi2eqwtqz2ny"
+      },
+      "uploaded_at": "2026-07-04T08:02:42.101685Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-display-a-snowflake-dashboard-with-optisigns.md",
+      "source_hash": "083829553c1d0f2ccb8500b55cbe91ca25dfd83eff46628b2e5cdab74e6622f3",
+      "article_id": "53028011485715",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtodisplayasnowflakedashb-a6asv80fslfa",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtodisplayasnowflakedashb-a6asv80fslfa"
+      },
+      "uploaded_at": "2026-07-04T08:02:54.600099Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-display-content-inside-websites-that-require-login.md",
+      "source_hash": "3ff772a39bdc794d804a874385baaccdff1167dad7f7630fc1cd42f18fbcea8c",
+      "article_id": "360037391854",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtodisplaycontentinsidewe-pqtok043zsb1",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtodisplaycontentinsidewe-pqtok043zsb1"
+      },
+      "uploaded_at": "2026-07-04T08:03:05.229436Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
+      "source_hash": "4ac09049055783fd33ad15dea27bba3acb055d4368df55534e72733add8e8190",
+      "article_id": "360055328454",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtoenabledisableautoupdat-y06ikj5s4kyu",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtoenabledisableautoupdat-y06ikj5s4kyu"
+      },
+      "uploaded_at": "2026-07-04T08:03:17.409674Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-factory-reset-your-fire-stick-device.md",
+      "source_hash": "f9759488899f6607b83badcd82e49f2d86593cec0f75b88c217210d6d34e01fa",
+      "article_id": "360054298754",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtofactoryresetyourfirest-v777jiobocx0",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtofactoryresetyourfirest-v777jiobocx0"
+      },
+      "uploaded_at": "2026-07-04T08:03:29.930086Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-install-an-apk-file-on-your-fire-tv.md",
+      "source_hash": "fefc957a430e82db7b8b82f076e9079257ee05bbaa92cb4f4a9476b4d67ab701",
+      "article_id": "360016313754",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtoinstallanapkfileonyour-tm6gqbax3j5s",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtoinstallanapkfileonyour-tm6gqbax3j5s"
+      },
+      "uploaded_at": "2026-07-04T08:03:40.953207Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-manage-sub-account-billing-with-optisigns.md",
+      "source_hash": "7f59d83440768056d87b1f0f2b51532280ab44e675fc1b97c742202fc796a835",
+      "article_id": "17129313173395",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtomanagesubaccountbillin-77ybl4t6oii8",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtomanagesubaccountbillin-77ybl4t6oii8"
+      },
+      "uploaded_at": "2026-07-04T08:03:53.036389Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-order-a-preconfigured-optisigns-android-player-device.md",
+      "source_hash": "86abfcbe9f1ab6344685d738848ec711c976155983b7ff58c8d8d0937e4d22e3",
+      "article_id": "31960461758611",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtoorderapreconfiguredopt-9hl0ybt4h3mt",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtoorderapreconfiguredopt-9hl0ybt4h3mt"
+      },
+      "uploaded_at": "2026-07-04T08:04:04.403536Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
+      "source_hash": "2e9811d96d3cd05525498ecbe8b7a0ef45aa453917822a8990d3c30c8ced1339",
+      "article_id": "360042143753",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtoreencodevideofilesforb-09ajw3ybzzno",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtoreencodevideofilesforb-09ajw3ybzzno"
+      },
+      "uploaded_at": "2026-07-04T08:04:18.425535Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-share-playlist-and-folder-with-external-users.md",
+      "source_hash": "163c4c5c4b41400fcfba1ccc9f1e34c1d98ab20469f253bfa80d2621701751d9",
+      "article_id": "21708242980755",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtoshareplaylistandfolder-eklsdpbg5oy1",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtoshareplaylistandfolder-eklsdpbg5oy1"
+      },
+      "uploaded_at": "2026-07-04T08:04:30.098981Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md",
+      "source_hash": "7d2e788ca1e2c1030f74ccc550bedeffb746d0e7a0742a34ea7f15aee1237f0d",
+      "article_id": "4404151402899",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtouseoptisignstemplatede-i9f4zlb61geu",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtouseoptisignstemplatede-i9f4zlb61geu"
+      },
+      "uploaded_at": "2026-07-04T08:04:42.088984Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-use-rss-feeds-with-optisigns.md",
+      "source_hash": "fc018581e8547fb5deb628fe1368d8322b546035ad62fb63e35fd6c661cbaeb0",
+      "article_id": "360037965133",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtouserssfeedswithoptisig-s40gkcsuo11l",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtouserssfeedswithoptisig-s40gkcsuo11l"
+      },
+      "uploaded_at": "2026-07-04T08:04:53.849774Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-use-the-data-studio-app.md",
+      "source_hash": "f6d9643ed0d2b939f00e0cc6be0ccfc694739f3f4f44e4405e06a88276028ad1",
+      "article_id": "360052088413",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtousethedatastudioappmd-637yi2hnjj65",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtousethedatastudioappmd-637yi2hnjj65"
+      },
+      "uploaded_at": "2026-07-04T08:05:05.213275Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-use-website-screenshot-app.md",
+      "source_hash": "594dd9a91f3e29589f33e5b04640bcea98c15c63a331714cbe7c831211b10c84",
+      "article_id": "10259143299219",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtousewebsitescreenshotap-j3d7tpsnzwft",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtousewebsitescreenshotap-j3d7tpsnzwft"
+      },
+      "uploaded_at": "2026-07-04T08:05:15.862499Z"
+    },
+    {
+      "source_filename": "data/markdown/how-to-use-youtube-with-optisigns.md",
+      "source_hash": "82380d2a6d8db39a4353baec203518ca9d024c6917f9a53dc2d7cb4c3bac4763",
+      "article_id": "360051014713",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/howtouseyoutubewithoptisign-y39z2f3gpebo",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/howtouseyoutubewithoptisign-y39z2f3gpebo"
+      },
+      "uploaded_at": "2026-07-04T08:05:26.925299Z"
+    },
+    {
+      "source_filename": "data/markdown/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration.md",
+      "source_hash": "515bd69da8eb45f5d47df437695ca87a707dc81bb5368a6cc1c973cf700a1018",
+      "article_id": "360035538093",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/myimagecontentarebleedingof-zpptq1zyq1ap",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/myimagecontentarebleedingof-zpptq1zyq1ap"
+      },
+      "uploaded_at": "2026-07-04T08:05:39.110080Z"
+    },
+    {
+      "source_filename": "data/markdown/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
+      "source_hash": "c4a81d175410bbb51c9d7d493bfe2edba8177c1760020deed6a2e84a628497eb",
+      "article_id": "52523606879251",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/optisignsdigitalsignageappf-t2aiokf48n5p",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/optisignsdigitalsignageappf-t2aiokf48n5p"
+      },
+      "uploaded_at": "2026-07-04T08:05:50.164134Z"
+    },
+    {
+      "source_filename": "data/markdown/optistick-troubleshooting-guide.md",
+      "source_hash": "fcf726c983108c051d5cc0b157c61516ff30ebe4d122a6925344d894cb1cf5f1",
+      "article_id": "40147900639891",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/optisticktroubleshootinggui-odthj5fxrse0",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/optisticktroubleshootinggui-odthj5fxrse0"
+      },
+      "uploaded_at": "2026-07-04T08:06:01.017528Z"
+    },
+    {
+      "source_filename": "data/markdown/optistick.md",
+      "source_hash": "a974ffa21a85e597ffc6c3770bf8745bf3cc6febe23b81aab0b04c8e1509235f",
+      "article_id": "27267311796243",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/optistickmd-xrp3cxj21qto",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/optistickmd-xrp3cxj21qto"
+      },
+      "uploaded_at": "2026-07-04T08:06:18.742149Z"
+    },
+    {
+      "source_filename": "data/markdown/pre-configure-wi-fi-with-optisigns-devices.md",
+      "source_hash": "77b3fdbb0e0b1c5f32b965eab58c04d6e1700c4a538036d89af3d6366aef6a63",
+      "article_id": "360055549854",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/preconfigurewifiwithoptisig-mbt8onf3pozb",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/preconfigurewifiwithoptisig-mbt8onf3pozb"
+      },
+      "uploaded_at": "2026-07-04T08:06:39.014732Z"
+    },
+    {
+      "source_filename": "data/markdown/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
+      "source_hash": "83ffd3593adf562f0244814f9ab3e4ad3be7f38d0fe477e843dda9b7eae01651",
+      "article_id": "52113036672403",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/roomintegrationsturnyourmee-eu7a0wo4kjo7",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/roomintegrationsturnyourmee-eu7a0wo4kjo7"
+      },
+      "uploaded_at": "2026-07-04T08:06:50.492587Z"
+    },
+    {
+      "source_filename": "data/markdown/using-the-japan-earthquake-app.md",
+      "source_hash": "3aa6b0872ca43605f55f8bf69a8033400a8df900ee410014a21ed1e16d374320",
+      "article_id": "53095698149011",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/usingthejapanearthquakeappm-udfquvenqrni",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/usingthejapanearthquakeappm-udfquvenqrni"
+      },
+      "uploaded_at": "2026-07-04T08:07:03.097839Z"
+    },
+    {
+      "source_filename": "data/markdown/whitelist-optisigns-ip-addresses-ports.md",
+      "source_hash": "ae74ea5c43c925f71826bb266f4c33613f292d1763b2753c6bd60de15848ab85",
+      "article_id": "360047275934",
+      "gemini_operation_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/upload/operations/whitelistoptisignsipaddress-1o1bg9y06e37",
+      "gemini_response": {
+        "sdk_http_response": null,
+        "parent": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+        "document_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu/documents/whitelistoptisignsipaddress-1o1bg9y06e37"
+      },
+      "uploaded_at": "2026-07-04T08:07:18.667122Z"
+    }
+  ],
+  "last_query": {
+    "query": "How do I add a YouTube video?",
+    "answer": "To add a YouTube video to your OptiSigns display, follow these steps:\n\n*   Log in to your [OptiSigns portal](http://app.optisigns.com/).\n*   Navigate to **Files/Assets**, click **App**, and select **YouTube** (or **YouTube Live**).\n*   Enter a **Name** for the asset and paste the full **URL** of the YouTube video.\n    *   *Note: For YouTube Shorts, you must change `/shorts/` in the URL to `/embed/` for it to display correctly.*\n*   Click **Save** to finish creating the asset.\n*   You can then assign the video to your screen, playlist, or schedule.\n\nArticle URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
+    "model": "gemini-3.1-flash-lite",
+    "file_search_store_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
+    "created_at": "2026-07-04T16:47:09.186875Z",
+    "updated_at": "2026-07-04T16:47:09.186875Z"
+  },
+  "updated_at": "2026-07-04T16:47:09.187054Z"
+}

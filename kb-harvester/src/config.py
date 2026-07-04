@@ -45,6 +45,10 @@ class Config:
     gemini_file_search_store_display_name: str
     skip_gemini_upload: bool
     force_upload_all: bool
+    gemini_upload_limit: int
+    gemini_operation_timeout_seconds: int
+    skip_gemini_query: bool
+    gemini_reupload_existing: bool
 
 
 HELP_CENTER_BASE_URL = os.getenv("HELP_CENTER_BASE_URL", "https://support.optisigns.com").rstrip("/")
@@ -71,6 +75,10 @@ GEMINI_FILE_SEARCH_STORE_DISPLAY_NAME = os.getenv(
 )
 SKIP_GEMINI_UPLOAD = _get_bool("SKIP_GEMINI_UPLOAD", False)
 FORCE_UPLOAD_ALL = _get_bool("FORCE_UPLOAD_ALL", False)
+GEMINI_UPLOAD_LIMIT = _get_int("GEMINI_UPLOAD_LIMIT", 0)
+GEMINI_OPERATION_TIMEOUT_SECONDS = _get_int("GEMINI_OPERATION_TIMEOUT_SECONDS", 180)
+SKIP_GEMINI_QUERY = _get_bool("SKIP_GEMINI_QUERY", False)
+GEMINI_REUPLOAD_EXISTING = _get_bool("GEMINI_REUPLOAD_EXISTING", False)
 
 config = Config(
     help_center_base_url=HELP_CENTER_BASE_URL,
@@ -91,4 +99,8 @@ config = Config(
     gemini_file_search_store_display_name=GEMINI_FILE_SEARCH_STORE_DISPLAY_NAME,
     skip_gemini_upload=SKIP_GEMINI_UPLOAD,
     force_upload_all=FORCE_UPLOAD_ALL,
+    gemini_upload_limit=GEMINI_UPLOAD_LIMIT,
+    gemini_operation_timeout_seconds=GEMINI_OPERATION_TIMEOUT_SECONDS,
+    skip_gemini_query=SKIP_GEMINI_QUERY,
+    gemini_reupload_existing=GEMINI_REUPLOAD_EXISTING,
 )
