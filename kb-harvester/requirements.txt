@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+html2text
+python-slugify
+python-dotenv
+google-genai
+tqdm

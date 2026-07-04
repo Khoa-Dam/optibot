@@ -1,0 +1,290 @@
+{
+  "run_at": "2026-07-04T04:21:57.699976Z",
+  "fetched": 30,
+  "added": 0,
+  "updated": 0,
+  "skipped": 30,
+  "failed": 0,
+  "uploaded_files": 0,
+  "gemini_file_search_store_name": null,
+  "gemini_file_search_store_display_name": null,
+  "upload": {
+    "provider": "gemini",
+    "status": "failed",
+    "files_uploaded": 0,
+    "uploaded_files": [],
+    "error": "GEMINI_API_KEY is required unless SKIP_GEMINI_UPLOAD=true"
+  },
+  "articles": [
+    {
+      "article_id": "360016252654",
+      "title": "Does OptiSigns offer Non-profit/Education discount?",
+      "slug": "does-optisigns-offer-non-profit-education-discount",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount",
+      "file": "data/markdown/does-optisigns-offer-non-profit-education-discount.md",
+      "hash": "b65a4c943b4dd18375c891e520d19f31683236d0384cf32e61173918d62a21e9"
+    },
+    {
+      "article_id": "53095698149011",
+      "title": "Using the Japan Earthquake App",
+      "slug": "using-the-japan-earthquake-app",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App",
+      "file": "data/markdown/using-the-japan-earthquake-app.md",
+      "hash": "3aa6b0872ca43605f55f8bf69a8033400a8df900ee410014a21ed1e16d374320"
+    },
+    {
+      "article_id": "53028011485715",
+      "title": "How to Display a Snowflake Dashboard with OptiSigns",
+      "slug": "how-to-display-a-snowflake-dashboard-with-optisigns",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns",
+      "file": "data/markdown/how-to-display-a-snowflake-dashboard-with-optisigns.md",
+      "hash": "083829553c1d0f2ccb8500b55cbe91ca25dfd83eff46628b2e5cdab74e6622f3"
+    },
+    {
+      "article_id": "51343184586643",
+      "title": "Connect Cisco Webex Rooms to OptiSigns Digital Signage",
+      "slug": "connect-cisco-webex-rooms-to-optisigns-digital-signage",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage",
+      "file": "data/markdown/connect-cisco-webex-rooms-to-optisigns-digital-signage.md",
+      "hash": "6da2825ac418c0a401d515a06a0270f5109b95202fc9c8324161b657ee24a631"
+    },
+    {
+      "article_id": "360054298754",
+      "title": "How to Factory Reset Your Fire Stick device ",
+      "slug": "how-to-factory-reset-your-fire-stick-device",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device",
+      "file": "data/markdown/how-to-factory-reset-your-fire-stick-device.md",
+      "hash": "f9759488899f6607b83badcd82e49f2d86593cec0f75b88c217210d6d34e01fa"
+    },
+    {
+      "article_id": "360035538093",
+      "title": "My image, content are bleeding off the screens with Fire TV (need screen calibration)",
+      "slug": "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration",
+      "file": "data/markdown/my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration.md",
+      "hash": "515bd69da8eb45f5d47df437695ca87a707dc81bb5368a6cc1c973cf700a1018"
+    },
+    {
+      "article_id": "27690296225555",
+      "title": "AI Camera App - Quick Start",
+      "slug": "ai-camera-app-quick-start",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/27690296225555-AI-Camera-App-Quick-Start",
+      "file": "data/markdown/ai-camera-app-quick-start.md",
+      "hash": "4778055800b0d3b3bf945a31231533d53d6bdd1b08b6db5660f415bf757e5b54"
+    },
+    {
+      "article_id": "23565267463315",
+      "title": "Engage Plan - FAQs",
+      "slug": "engage-plan-faqs",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs",
+      "file": "data/markdown/engage-plan-faqs.md",
+      "hash": "71496d0f476ba114221c6ba5bc8e590a4ae5add46c00cc45a05881da30c66137"
+    },
+    {
+      "article_id": "360042143753",
+      "title": "How to re-encode video files for better compatibility on your devices",
+      "slug": "how-to-re-encode-video-files-for-better-compatibility-on-your-devices",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360042143753-How-to-re-encode-video-files-for-better-compatibility-on-your-devices",
+      "file": "data/markdown/how-to-re-encode-video-files-for-better-compatibility-on-your-devices.md",
+      "hash": "2e9811d96d3cd05525498ecbe8b7a0ef45aa453917822a8990d3c30c8ced1339"
+    },
+    {
+      "article_id": "360055328454",
+      "title": "How to Enable/Disable Auto Update for OptiSigns app on Fire TV",
+      "slug": "how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV",
+      "file": "data/markdown/how-to-enable-disable-auto-update-for-optisigns-app-on-fire-tv.md",
+      "hash": "4ac09049055783fd33ad15dea27bba3acb055d4368df55534e72733add8e8190"
+    },
+    {
+      "article_id": "360025661053",
+      "title": "How Can I Remove/Delete Uploaded Files or Assets?",
+      "slug": "how-can-i-remove-delete-uploaded-files-or-assets",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets",
+      "file": "data/markdown/how-can-i-remove-delete-uploaded-files-or-assets.md",
+      "hash": "4f50437a2ee0e4d5864fc3959f109630bc3970cc0aae0c4f42ce70998642eadf"
+    },
+    {
+      "article_id": "21708242980755",
+      "title": "How to Share Playlist and Folder with External Users",
+      "slug": "how-to-share-playlist-and-folder-with-external-users",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/21708242980755-How-to-Share-Playlist-and-Folder-with-External-Users",
+      "file": "data/markdown/how-to-share-playlist-and-folder-with-external-users.md",
+      "hash": "163c4c5c4b41400fcfba1ccc9f1e34c1d98ab20469f253bfa80d2621701751d9"
+    },
+    {
+      "article_id": "40147900639891",
+      "title": "OptiStick Troubleshooting Guide",
+      "slug": "optistick-troubleshooting-guide",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide",
+      "file": "data/markdown/optistick-troubleshooting-guide.md",
+      "hash": "fcf726c983108c051d5cc0b157c61516ff30ebe4d122a6925344d894cb1cf5f1"
+    },
+    {
+      "article_id": "27267311796243",
+      "title": "OptiStick",
+      "slug": "optistick",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick",
+      "file": "data/markdown/optistick.md",
+      "hash": "a974ffa21a85e597ffc6c3770bf8745bf3cc6febe23b81aab0b04c8e1509235f"
+    },
+    {
+      "article_id": "10259143299219",
+      "title": "How to use Website Screenshot app",
+      "slug": "how-to-use-website-screenshot-app",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app",
+      "file": "data/markdown/how-to-use-website-screenshot-app.md",
+      "hash": "594dd9a91f3e29589f33e5b04640bcea98c15c63a331714cbe7c831211b10c84"
+    },
+    {
+      "article_id": "360037391854",
+      "title": "How to display content inside websites that require login?",
+      "slug": "how-to-display-content-inside-websites-that-require-login",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360037391854-How-to-display-content-inside-websites-that-require-login",
+      "file": "data/markdown/how-to-display-content-inside-websites-that-require-login.md",
+      "hash": "3ff772a39bdc794d804a874385baaccdff1167dad7f7630fc1cd42f18fbcea8c"
+    },
+    {
+      "article_id": "52350277262483",
+      "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
+      "slug": "connect-microsoft-teams-rooms-to-optisigns-digital-signage",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage",
+      "file": "data/markdown/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
+      "hash": "104c96ce94e813bcdd17369b08d4b23195d265b74cefd679143908f1b496dd85"
+    },
+    {
+      "article_id": "17129313173395",
+      "title": "How to manage Sub-Account billing with OptiSigns",
+      "slug": "how-to-manage-sub-account-billing-with-optisigns",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/17129313173395-How-to-manage-Sub-Account-billing-with-OptiSigns",
+      "file": "data/markdown/how-to-manage-sub-account-billing-with-optisigns.md",
+      "hash": "7f59d83440768056d87b1f0f2b51532280ab44e675fc1b97c742202fc796a835"
+    },
+    {
+      "article_id": "4404151402899",
+      "title": "How to Use OptiSigns' Template & Designer to Make Your Digital Signs in Minutes",
+      "slug": "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/4404151402899-How-to-Use-OptiSigns-Template-Designer-to-Make-Your-Digital-Signs-in-Minutes",
+      "file": "data/markdown/how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes.md",
+      "hash": "7d2e788ca1e2c1030f74ccc550bedeffb746d0e7a0742a34ea7f15aee1237f0d"
+    },
+    {
+      "article_id": "360016313754",
+      "title": "How to Install an APK file on your Fire TV",
+      "slug": "how-to-install-an-apk-file-on-your-fire-tv",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360016313754-How-to-Install-an-APK-file-on-your-Fire-TV",
+      "file": "data/markdown/how-to-install-an-apk-file-on-your-fire-tv.md",
+      "hash": "fefc957a430e82db7b8b82f076e9079257ee05bbaa92cb4f4a9476b4d67ab701"
+    },
+    {
+      "article_id": "360051014713",
+      "title": "How to use YouTube with OptiSigns",
+      "slug": "how-to-use-youtube-with-optisigns",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
+      "file": "data/markdown/how-to-use-youtube-with-optisigns.md",
+      "hash": "82380d2a6d8db39a4353baec203518ca9d024c6917f9a53dc2d7cb4c3bac4763"
+    },
+    {
+      "article_id": "360047275934",
+      "title": "Whitelist OptiSigns IP addresses & ports",
+      "slug": "whitelist-optisigns-ip-addresses-ports",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports",
+      "file": "data/markdown/whitelist-optisigns-ip-addresses-ports.md",
+      "hash": "ae74ea5c43c925f71826bb266f4c33613f292d1763b2753c6bd60de15848ab85"
+    },
+    {
+      "article_id": "52113036672403",
+      "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
+      "slug": "room-integrations-turn-your-meeting-rooms-into-digital-signage",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage",
+      "file": "data/markdown/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
+      "hash": "83ffd3593adf562f0244814f9ab3e4ad3be7f38d0fe477e843dda9b7eae01651"
+    },
+    {
+      "article_id": "52412502456083",
+      "title": "Connect Google Meet Hardware to OptiSigns Digital Signage",
+      "slug": "connect-google-meet-hardware-to-optisigns-digital-signage",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage",
+      "file": "data/markdown/connect-google-meet-hardware-to-optisigns-digital-signage.md",
+      "hash": "9750145c07338abecdeb1cc9aae97cb5b0f2d9d3e8b3ef9f4b57b122d300476e"
+    },
+    {
+      "article_id": "360037965133",
+      "title": "How to use RSS feeds with OptiSigns",
+      "slug": "how-to-use-rss-feeds-with-optisigns",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns",
+      "file": "data/markdown/how-to-use-rss-feeds-with-optisigns.md",
+      "hash": "fc018581e8547fb5deb628fe1368d8322b546035ad62fb63e35fd6c661cbaeb0"
+    },
+    {
+      "article_id": "360052088413",
+      "title": "How to Use the Data Studio App",
+      "slug": "how-to-use-the-data-studio-app",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360052088413-How-to-Use-the-Data-Studio-App",
+      "file": "data/markdown/how-to-use-the-data-studio-app.md",
+      "hash": "f6d9643ed0d2b939f00e0cc6be0ccfc694739f3f4f44e4405e06a88276028ad1"
+    },
+    {
+      "article_id": "52523606879251",
+      "title": "OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App",
+      "slug": "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App",
+      "file": "data/markdown/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md",
+      "hash": "c4a81d175410bbb51c9d7d493bfe2edba8177c1760020deed6a2e84a628497eb"
+    },
+    {
+      "article_id": "52069065128723",
+      "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
+      "slug": "connect-zoom-rooms-to-optisigns-digital-signage",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage",
+      "file": "data/markdown/connect-zoom-rooms-to-optisigns-digital-signage.md",
+      "hash": "6dcaa6a4153414991741bd72480eec4f93a3e9c5132f689a52d6e95fbc1252e6"
+    },
+    {
+      "article_id": "360055549854",
+      "title": "Pre-configure Wi-Fi with OptiSigns devices",
+      "slug": "pre-configure-wi-fi-with-optisigns-devices",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices",
+      "file": "data/markdown/pre-configure-wi-fi-with-optisigns-devices.md",
+      "hash": "77b3fdbb0e0b1c5f32b965eab58c04d6e1700c4a538036d89af3d6366aef6a63"
+    },
+    {
+      "article_id": "31960461758611",
+      "title": "How to Order a Preconfigured OptiSigns Android Player Device",
+      "slug": "how-to-order-a-preconfigured-optisigns-android-player-device",
+      "status": "skipped",
+      "source_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Player-Device",
+      "file": "data/markdown/how-to-order-a-preconfigured-optisigns-android-player-device.md",
+      "hash": "86abfcbe9f1ab6344685d738848ec711c976155983b7ff58c8d8d0937e4d22e3"
+    }
+  ]
+}
