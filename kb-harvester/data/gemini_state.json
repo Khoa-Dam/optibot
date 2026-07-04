@@ -365,12 +365,8 @@
     }
   ],
   "last_query": {
-    "query": "How do I add a YouTube video?",
-    "answer": "To add a YouTube video to your OptiSigns display, follow these steps:\n\n*   Log in to your [OptiSigns portal](http://app.optisigns.com/).\n*   Navigate to **Files/Assets**, click **App**, and select **YouTube** (or **YouTube Live**).\n*   Enter a **Name** for the asset and paste the full **URL** of the YouTube video.\n    *   *Note: For YouTube Shorts, you must change `/shorts/` in the URL to `/embed/` for it to display correctly.*\n*   Click **Save** to finish creating the asset.\n*   You can then assign the video to your screen, playlist, or schedule.\n\nArticle URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns",
-    "model": "gemini-3.1-flash-lite",
-    "file_search_store_name": "fileSearchStores/optibotkbharvester-hx2gbycu8ttu",
-    "created_at": "2026-07-04T16:47:09.186875Z",
-    "updated_at": "2026-07-04T16:47:09.186875Z"
+    "skipped": true,
+    "message": "Gemini query skipped by SKIP_GEMINI_QUERY=true"
   },
-  "updated_at": "2026-07-04T16:47:09.187054Z"
+  "updated_at": "2026-07-04T17:25:38.375564Z"
 }
