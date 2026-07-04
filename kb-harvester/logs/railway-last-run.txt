@@ -1,0 +1,12 @@
+2026-07-04T18:02:47.490276068Z [inf]  Starting Container
+2026-07-04T18:02:55.910383347Z [inf]  Updated: 0
+2026-07-04T18:02:55.910397015Z [inf]  Skipped: 30
+2026-07-04T18:02:55.910405974Z [inf]  Failed: 0
+2026-07-04T18:02:55.910413654Z [inf]  Uploaded files: 0
+2026-07-04T18:02:55.910421189Z [inf]  No changed files to upload.
+2026-07-04T18:02:55.910427386Z [inf]  Output dir: data/markdown
+2026-07-04T18:02:55.910432851Z [inf]  Manifest: data/manifest.json
+2026-07-04T18:02:55.910437968Z [inf]  Run log: logs/last-run.json
+2026-07-04T18:02:55.910550589Z [inf]  Run complete
+2026-07-04T18:02:55.910554993Z [inf]  Fetched articles: 30
+2026-07-04T18:02:55.910558965Z [inf]  Added: 0
